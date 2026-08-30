@@ -54,8 +54,7 @@ Data Analyst and Business Analyst focused on transforming raw data into actionab
 **BI & Visualization Tools**  
 <p>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/></a>
-</p>
+  
 
 **Developer Tools & Analytics Environments**  
 <p>
