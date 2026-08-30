@@ -65,8 +65,8 @@ Data Analyst and Business Analyst focused on transforming raw data into actionab
 
 ### Languages
 
-- 🇬🇧 **English:** Advanced
-- 🇮🇳 **Hindi / Native Language:** Native
+-  **English:** Advanced
+- **Hindi / Native Language:* Telugu* Native
 
 ---
 
